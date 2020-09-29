@@ -1,4 +1,4 @@
-# pepkor
+# pepkor Springboot + MySQL + Angular JS
 Kanban Application built 
 
 1.The SQl scripts are there to run on your local database + there is dummy data
