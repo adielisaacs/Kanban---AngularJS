@@ -1,4 +1,4 @@
-# Pepkor Springboot + MySQL + Angular JS
+# Springboot + MySQL + Angular JS
 
 
 1.The SQl scripts are there to run on your local database + there is dummy data
